@@ -1,0 +1,29 @@
+_repo: Promoting-good-citizenship_68493
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: https://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68493'
+language: en
+pgterms:marc905: 20220109165852bryce
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Charlie Howard and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Houghton Mifflin Company,1909,copyright 1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Promoting good citizenship
+url: http://www.gutenberg.org/ebooks/68493
